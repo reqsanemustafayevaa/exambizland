@@ -1,0 +1,17 @@
+C:\Users\User\Masaüstü\exambizland\bizlandbb206\src\bizland.business\bin\Debug\net6.0\bizland.business.deps.json
+C:\Users\User\Masaüstü\exambizland\bizlandbb206\src\bizland.business\bin\Debug\net6.0\bizland.business.dll
+C:\Users\User\Masaüstü\exambizland\bizlandbb206\src\bizland.business\bin\Debug\net6.0\bizland.business.pdb
+C:\Users\User\Masaüstü\exambizland\bizlandbb206\src\bizland.business\bin\Debug\net6.0\bizland.core.dll
+C:\Users\User\Masaüstü\exambizland\bizlandbb206\src\bizland.business\bin\Debug\net6.0\bizland.data.dll
+C:\Users\User\Masaüstü\exambizland\bizlandbb206\src\bizland.business\bin\Debug\net6.0\bizland.data.pdb
+C:\Users\User\Masaüstü\exambizland\bizlandbb206\src\bizland.business\bin\Debug\net6.0\bizland.core.pdb
+C:\Users\User\Masaüstü\exambizland\bizlandbb206\src\bizland.business\obj\Debug\net6.0\bizland.business.csproj.AssemblyReference.cache
+C:\Users\User\Masaüstü\exambizland\bizlandbb206\src\bizland.business\obj\Debug\net6.0\bizland.business.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\Masaüstü\exambizland\bizlandbb206\src\bizland.business\obj\Debug\net6.0\bizland.business.AssemblyInfoInputs.cache
+C:\Users\User\Masaüstü\exambizland\bizlandbb206\src\bizland.business\obj\Debug\net6.0\bizland.business.AssemblyInfo.cs
+C:\Users\User\Masaüstü\exambizland\bizlandbb206\src\bizland.business\obj\Debug\net6.0\bizland.business.csproj.CoreCompileInputs.cache
+C:\Users\User\Masaüstü\exambizland\bizlandbb206\src\bizland.business\obj\Debug\net6.0\bizland.business.csproj.CopyComplete
+C:\Users\User\Masaüstü\exambizland\bizlandbb206\src\bizland.business\obj\Debug\net6.0\bizland.business.dll
+C:\Users\User\Masaüstü\exambizland\bizlandbb206\src\bizland.business\obj\Debug\net6.0\refint\bizland.business.dll
+C:\Users\User\Masaüstü\exambizland\bizlandbb206\src\bizland.business\obj\Debug\net6.0\bizland.business.pdb
+C:\Users\User\Masaüstü\exambizland\bizlandbb206\src\bizland.business\obj\Debug\net6.0\ref\bizland.business.dll

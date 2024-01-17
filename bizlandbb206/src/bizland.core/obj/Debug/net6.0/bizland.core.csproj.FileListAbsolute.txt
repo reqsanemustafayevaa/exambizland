@@ -1,0 +1,14 @@
+C:\Users\User\Masaüstü\exambizland\bizlandbb206\src\bizland.core\bin\Debug\net6.0\bizland.core.deps.json
+C:\Users\User\Masaüstü\exambizland\bizlandbb206\src\bizland.core\bin\Debug\net6.0\bizland.core.runtimeconfig.json
+C:\Users\User\Masaüstü\exambizland\bizlandbb206\src\bizland.core\bin\Debug\net6.0\bizland.core.dll
+C:\Users\User\Masaüstü\exambizland\bizlandbb206\src\bizland.core\bin\Debug\net6.0\bizland.core.pdb
+C:\Users\User\Masaüstü\exambizland\bizlandbb206\src\bizland.core\obj\Debug\net6.0\bizland.core.csproj.AssemblyReference.cache
+C:\Users\User\Masaüstü\exambizland\bizlandbb206\src\bizland.core\obj\Debug\net6.0\bizland.core.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\Masaüstü\exambizland\bizlandbb206\src\bizland.core\obj\Debug\net6.0\bizland.core.AssemblyInfoInputs.cache
+C:\Users\User\Masaüstü\exambizland\bizlandbb206\src\bizland.core\obj\Debug\net6.0\bizland.core.AssemblyInfo.cs
+C:\Users\User\Masaüstü\exambizland\bizlandbb206\src\bizland.core\obj\Debug\net6.0\bizland.core.csproj.CoreCompileInputs.cache
+C:\Users\User\Masaüstü\exambizland\bizlandbb206\src\bizland.core\obj\Debug\net6.0\bizland.core.dll
+C:\Users\User\Masaüstü\exambizland\bizlandbb206\src\bizland.core\obj\Debug\net6.0\refint\bizland.core.dll
+C:\Users\User\Masaüstü\exambizland\bizlandbb206\src\bizland.core\obj\Debug\net6.0\bizland.core.pdb
+C:\Users\User\Masaüstü\exambizland\bizlandbb206\src\bizland.core\obj\Debug\net6.0\bizland.core.genruntimeconfig.cache
+C:\Users\User\Masaüstü\exambizland\bizlandbb206\src\bizland.core\obj\Debug\net6.0\ref\bizland.core.dll
