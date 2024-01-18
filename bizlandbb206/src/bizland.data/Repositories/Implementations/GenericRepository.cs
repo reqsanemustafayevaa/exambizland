@@ -28,7 +28,7 @@ namespace bizland.data.Repositories.Implementations
 
         public async Task CreateAsync(TEntity entity)
         {
-           await Table.AddAsync(entity);
+            Table.AddAsync(entity);
         }
 
         public void Delete(TEntity entity)

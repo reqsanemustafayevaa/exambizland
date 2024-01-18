@@ -1,0 +1,25 @@
+﻿@model TeamMember
+<form method="post" enctype="multipart/form-data">
+    <div class="mb-3">
+        <label asp-for="Name" class="form-label">Name</label>
+        <input asp-for="Name" class="form-control">
+       <span asp-validation-for="Name"></span>
+    </div>
+    <div class="mb-3">
+        <label asp-for="Profession" class="form-label">Profession</label>
+        <input asp-for="Profession" class="form-control" >
+        <span asp-validation-for="Profession"></span>
+
+    </div>
+    <div class="mb-3">
+        <label asp-for="ImageFile" class="form-label">Image</label>
+        <input asp-for="ImageFile" class="form-control">
+        <span asp-validation-for="ImageFile"></span>
+
+    </div>
+    <div class="mb-3 form-check">
+        <input type="checkbox" class="form-check-input" id="exampleCheck1">
+        <label class="form-check-label" for="exampleCheck1">Check me out</label>
+    </div>
+    <button type="submit" class="btn btn-primary">Create</button>
+</form>

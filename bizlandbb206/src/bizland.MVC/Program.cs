@@ -1,5 +1,6 @@
 using bizland.data.DAL;
 using bizland.data;
+using bizland.business;
 using Microsoft.EntityFrameworkCore;
 
 var builder = WebApplication.CreateBuilder(args);
@@ -11,6 +12,7 @@ builder.Services.AddDbContext<AppDbContext>(opt =>
     opt.UseSqlServer("server=DESKTOP-4T5RTRO;database=bizlandbb206prc;Trusted_Connection=True;");
 });
 builder.Services.AddRepository();
+builder.Services.AddService();
 
 var app = builder.Build();
 
@@ -28,6 +30,11 @@ app.UseStaticFiles();
 app.UseRouting();
 
 app.UseAuthorization();
+
+app.MapControllerRoute(
+           name: "areas",
+           pattern: "{area:exists}/{controller=Home}/{action=Index}/{id?}"
+         );
 
 app.MapControllerRoute(
     name: "default",

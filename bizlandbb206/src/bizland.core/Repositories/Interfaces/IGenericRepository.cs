@@ -13,8 +13,8 @@ namespace bizland.core.Repositories.Interfaces
     {
         DbSet<TEntity> Table {  get; }
         Task CreateAsync(TEntity entity);
-        IQueryable<TEntity> GetAllAsync(Expression<Func<TEntity,bool>>? expression,params string[]? includes);
-        Task<TEntity> GetByIdAsync(Expression<Func<TEntity, bool>>? expression, params string[]? includes);
+        IQueryable<TEntity> GetAllAsync(Expression<Func<TEntity,bool>>? expression=null,params string[]? includes);
+        Task<TEntity> GetByIdAsync(Expression<Func<TEntity, bool>>? expression=null, params string[]? includes);
         void Delete(TEntity entity);
         Task<int> CommitAsync();
     }

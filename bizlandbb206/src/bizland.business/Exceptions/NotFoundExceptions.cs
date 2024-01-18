@@ -6,7 +6,20 @@ using System.Threading.Tasks;
 
 namespace bizland.business.Exceptions
 {
-    internal class NotFoundExceptions
+    public class NotFoundExceptions:Exception
     {
+        public string PropertyName {  get; set; }
+        public NotFoundExceptions()
+        {
+            
+        }
+        public NotFoundExceptions(string? message):base(message)
+        {
+            
+        }
+        public NotFoundExceptions(string propertyname,string? message):base(message) 
+        {
+            PropertyName = propertyname;
+        }
     }
 }
